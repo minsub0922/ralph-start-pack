@@ -56,6 +56,7 @@ git commit -m "docs: define product and Ralph tasks"
 ```
 
 ## 3. Ralphy 초기화
+intall: https://github.com/michaelshimeles/ralphy
 
 ```bash
 ralphy --init

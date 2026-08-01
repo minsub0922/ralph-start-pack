@@ -1,6 +1,6 @@
 # Ralph Starter Package Guide
 
-Claude Code와 Ralphy를 사용해 제품 기획부터 반복 구현까지 실행하는 최소 가이드입니다.
+Claude Code와 Ralphy를 사용해 제품 기획부터 반복 구현까지 실행하는 최소 가이드입니다. ([Sample Product](https://github.com/minsub0922/ralph-tui-game-sample)****)
 
 > 예시는 Claude Code 기준입니다. 다른 Code Agent를 사용할 경우 같은 Agent를 기획과 Ralphy 실행에 사용하세요.
 

@@ -2,7 +2,10 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f81d9b30-b292-4b01-8019-4d93715f6c11" />
 
-Claude Code와 Ralphy를 사용해 제품 기획부터 반복 구현까지 실행하는 최소 가이드입니다. ([Sample Product](https://github.com/minsub0922/ralph-tui-game-sample))
+Claude Code와 Ralphy를 사용해 제품 기획부터 반복 구현까지 실행하는 최소 가이드입니다. 
+- [Guide pptx](https://docs.google.com/presentation/d/1YSHV4lT72-h20uqtvwE0CJfigv7_WoKiI7ePklIlKlo/edit?usp=sharing)
+- [Sample Product](https://github.com/minsub0922/ralph-tui-game-sample)
+
 
 > 예시는 Claude Code 기준입니다. 다른 Code Agent를 사용할 경우 같은 Agent를 기획과 Ralphy 실행에 사용하세요.
 

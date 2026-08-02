@@ -58,6 +58,18 @@ git commit -m "docs: define product and Ralph tasks"
 ## 3. Ralphy 초기화
 intall: https://github.com/michaelshimeles/ralphy
 
+seed scaffold: 제품 기능이 아닌 프로젝트 뼈대만 먼저 설정
+
+```bash
+ralphy --no-commit --max-retries 1 --no-browser \
+  "Read PRODUCT.md, tasks.yaml, and AGENTS.md.
+   Create only the minimal runnable seed project.
+   Do not implement product features.
+   Add npm run check and make it pass."
+```
+
+scaffold 이후 init
+
 ```bash
 ralphy --init
 ```
